@@ -27,6 +27,6 @@ Analyze ride-sharing data based on city type (urban, suburban & rural).
 
 ## Summary
 - Recommendations
-	1. More drivers across all three city types would increase the total fares, however the rural areas would see the greatest increase due to the high average fares. 
-	2. Increased fare prices would have the greatest impact in the urban areas, as the urban area ride count is more than twice the total of rural and suburban areas combined.
-	3. Suburban areas could benefit from a fare price increase and increase number of drivers, with an emphasis on the increase in the number of drivers.
+1. More drivers across all three city types would increase the total fares, however the rural areas would see the greatest increase due to the high average fares. 
+2. Increased fare prices would have the greatest impact in the urban areas, as the urban area ride count is more than twice the total of rural and suburban areas combined.
+3. Suburban areas could benefit from a fare price increase and increase number of drivers, with an emphasis on the increase in the number of drivers.
